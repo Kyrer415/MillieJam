@@ -13,7 +13,7 @@
 
 ## 📦 Как запустить проект
 1. Склонируйте репозиторий.
-2. Кликните правой кнопкой мыши по файлу `[Название].uproject` и выберите **Generate Visual Studio project files** (если есть C++).
+2. Кликните правой кнопкой мыши по файлу `Kyrer_MillieJam.uproject` и выберите **Generate Visual Studio project files** (если есть C++).
 3. Откройте проект в Unreal Engine и запустите сцену в папке `Content/Maps`.
 
 👉 **[Скачать и поиграть на Itch.io](https://kyrer.itch.io/gamemillijam)**
